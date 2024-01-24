@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="Catalog.Сотрудники" id="9110b8f2-7d53-4e50-80d9-979221ae5142" configVersion="36126d53e24e2c42a86fa2cea741c96900000000">
+			<Metadata name="Catalog.Сотрудники.TabularSection.ДопДанные" id="638e081d-13a4-43ec-8a5d-5329b4703888"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Пол" id="67f3fd6c-f48e-4c85-a32f-6c805eb4d516"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Фото" id="852892af-71d3-442d-b011-1c7aab85c7a4"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.ДатаРождения" id="8d7c66f4-44a1-4011-b096-9daacb0a0c22"/>
+			<Metadata name="Catalog.Сотрудники.TabularSection.ДопДанные.Attribute.ВидДанных" id="c8800119-00dc-49f0-aaae-ee3e8dbd102f"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Раса" id="fe971c06-90d9-42a5-ac69-5eaaa4bbd8ec"/>
+			<Metadata name="Catalog.Сотрудники.TabularSection.ДопДанные.Attribute.Данные" id="ff3966b1-5a54-468f-945a-fea3967ab291"/>
+		</Metadata>
+		<Metadata name="Catalog.ХозяйственныеЧасти" id="a2be8e40-e964-4e83-9f8d-de75f69bab4d" configVersion="7d9448ca07c5ee4faa5092a3d4fe110d00000000"/>
+		<Metadata name="Configuration.SAF_LMG" id="fbbf7462-b46c-43fe-aa9a-1d640a04e252" configVersion="dcda2ec86c5ae7478ffb3750995f374400000000"/>
+		<Metadata name="Document.ПриемНаРаботу" id="281e2756-5c79-4ba7-8e98-8fcc15cbfd5a" configVersion="3b912b9470849e48ae171c399cfe796d00000000">
+			<Metadata name="Document.ПриемНаРаботу.Attribute.Сотрудник" id="5b6c2832-f349-4735-a0ab-eb6f026cdc4d"/>
+			<Metadata name="Document.ПриемНаРаботу.Attribute.ХозяйственнаяЧасть" id="7932448f-ebad-4062-8a50-3271501a99e1"/>
+			<Metadata name="Document.ПриемНаРаботу.Attribute.Комментарий" id="7f19c7e0-96a5-4e50-840d-081df24920a1"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыЛичныхДанных" id="3fe65149-0e2e-45b7-b987-158bd72a1bec" configVersion="00f15a32ee9cbd4f946c4c70ca776b1600000000">
+			<Metadata name="Enum.ВидыЛичныхДанных.EnumValue.Телефон" id="5149330e-33c4-4738-8d34-ef89350fd5c9"/>
+			<Metadata name="Enum.ВидыЛичныхДанных.EnumValue.Документ" id="956ab734-0e08-439b-bc27-8fea5725b41e"/>
+			<Metadata name="Enum.ВидыЛичныхДанных.EnumValue.Почта" id="b085fd81-5244-420e-9f90-38d986e5495e"/>
+			<Metadata name="Enum.ВидыЛичныхДанных.EnumValue.Адрес" id="bc8bf020-dd99-4fcc-a1d6-6f987a92310a"/>
+			<Metadata name="Enum.ВидыЛичныхДанных.EnumValue.Другое" id="c3460732-eeb4-4ac6-b618-f6b199bc7f37"/>
+		</Metadata>
+		<Metadata name="Enum.Пол" id="9e272a59-f093-4ad5-9adb-a89b584f0ec6" configVersion="3f743e30d3fb7d4686905d2b7ea0125c00000000">
+			<Metadata name="Enum.Пол.EnumValue.Мужской" id="51e6d023-1490-41d5-a903-c7b57ee44eab"/>
+			<Metadata name="Enum.Пол.EnumValue.Неопределенный" id="a21ff98e-a979-4de5-912e-b73e996d81a7"/>
+			<Metadata name="Enum.Пол.EnumValue.Женский" id="b377f1e7-6683-46f7-aeb3-55d7e3dc4cb0"/>
+		</Metadata>
+		<Metadata name="Enum.Расы" id="8de4c340-8a37-4bec-b778-41b25474ee6e" configVersion="e8627e016387144e8101d3473ef47c8900000000">
+			<Metadata name="Enum.Расы.EnumValue.Гномы" id="a4c1525d-bf34-4a7e-895a-e5559837dd64"/>
+			<Metadata name="Enum.Расы.EnumValue.Демоны" id="c9883ac6-9a56-49ef-84fc-482e3e26d1e9"/>
+			<Metadata name="Enum.Расы.EnumValue.Люди" id="de47356b-b6b0-4599-bc90-6628d9caf5e1"/>
+			<Metadata name="Enum.Расы.EnumValue.Эльфы" id="f26572eb-896a-45e2-8bf3-3dbe800a9f35"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="6784da60-a228-436b-aa11-d710cfe6f4ca" configVersion="bcf0bab86e633440a0056658b5ab1feb00000000"/>
+		<Metadata name="Subsystem.УчетСотрудников" id="538205c9-36e9-4489-86e5-4e708048c8ff" configVersion="69aa83a2e71ef34d94e111e856698d2800000000"/>
+		<Metadata name="Subsystem.УчетСотрудников.CommandInterface" id="538205c9-36e9-4489-86e5-4e708048c8ff.1" configVersion="b3bbb4c49ea7c9438912d7024510eab700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
